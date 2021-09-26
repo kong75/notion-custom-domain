@@ -3,7 +3,7 @@ import proxy from 'express-http-proxy';
 import { URL } from 'url';
 
 const {
-  PAGE_URL = 'https://notion.notion.site/Notion-Official-83715d7703ee4b8699b5e659a4712dd8',
+  PAGE_URL = 'https://miracleplus.notion.site/9588844fb8264ab2b3d3862232b2c255',
   GA_TRACKING_ID,
 } = process.env;
 
